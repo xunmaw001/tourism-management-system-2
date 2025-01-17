@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS springboot7y37k;
+
